@@ -5,7 +5,7 @@
       "id": "finnair_v1",
       "name": "Finnair",
       "version": 1,
-      "downloadUrl": "https://raw.githubusercontent.com/convention-account/cabindeck-packs/main/packs/Finnair.zip",
+      "downloadUrl": "https://github.com/convention-account/cabindeck-packs/raw/refs/heads/main/Finnair.zip",
       "logoUrl": "https://raw.githubusercontent.com/convention-account/cabindeck-packs/main/packs/finnair_logo.png",
       "description": "Authentic Finnair announcements and Nordic boarding music.",
       "fileSize": "12.4 MB"
