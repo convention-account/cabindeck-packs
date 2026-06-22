@@ -6,7 +6,7 @@
       "name": "Finnair",
       "version": 1,
       "downloadUrl": "https://github.com/convention-account/cabindeck-packs/raw/refs/heads/main/Finnair.zip",
-      "logoUrl": "https://github.com/convention-account/cabindeck-packs/blob/main/Icons/logo.jpg?raw=true",
+      "logoUrl": "https://github.com/convention-account/cabindeck-packs/blob/main/Icons/fin-logo.jpg?raw=true",
       "description": "Authentic Finnair announcements and Nordic boarding music.",
       "fileSize": "12.4 MB"
     },
@@ -14,8 +14,8 @@
       "id": "lufthansa_v2",
       "name": "Lufthansa",
       "version": 2,
-      "downloadUrl": "https://example.com/Lufthansa.zip",
-      "logoUrl": "https://example.com/lufthansa_logo.png",
+      "downloadUrl": "https://github.com/convention-account/cabindeck-packs/raw/refs/heads/main/Lufthansa.zip",
+      "logoUrl": "https://github.com/convention-account/cabindeck-packs/blob/main/Icons/lufthansa-logo.jpg?raw=true",
       "description": "German flag carrier announcements including A350/A320 safety briefings.",
       "fileSize": "15.8 MB"
     }
